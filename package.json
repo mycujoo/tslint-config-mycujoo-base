@@ -1,0 +1,27 @@
+{
+  "name": "@mycujoo/tslint-config-mycujoo-base",
+  "version": "1.0.0",
+  "description": "TSLint base configuration file for @mycujoo",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycujoo/tslint-config-mycujoo-base.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "airbnb",
+    "mycujoo",
+    "typescript"
+  ],
+  "author": "mycujoo.tv <@mycujoo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mycujoo/tslint-config-mycujoo-base/issues"
+  },
+  "homepage": "https://github.com/mycujoo/tslint-config-mycujoo-base",
+  "dependencies": {
+    "tslint-config-airbnb-base": "0.3.0"
+  }
+}
